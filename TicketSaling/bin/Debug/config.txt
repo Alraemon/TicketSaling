@@ -1,0 +1,1 @@
+Provider=SQLNCLI11;Data Source=106.14.145.15;Persist Security Info=True;Password=bHV2bWh4;User ID=sa;Initial Catalog=TicketDb
